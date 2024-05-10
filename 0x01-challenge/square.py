@@ -5,6 +5,7 @@
 class square():
     """class to implement square"""
     width = 0
+    height = 0
 
     def __init__(self, *args, **kwargs):
         """intializing init value"""
