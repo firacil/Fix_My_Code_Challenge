@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""module that provide square implementation"""
 
 
 class square():
